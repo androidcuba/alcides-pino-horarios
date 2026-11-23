@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "scheduleVersion": "2026-10-26.1",
+  "scheduleVersion": "2026-11-23.1",
   "location": {
     "name": "Reparto Alcides Pino",
     "municipality": "Holguín",
@@ -8,341 +8,21 @@
     "country": "Cuba",
     "timezone": "America/Havana"
   },
-  "updatedAt": "2026-10-26",
-  "validFrom": "2026-10-26",
-  "validUntil": "2026-11-30",
+  "updatedAt": "2026-11-23",
+  "validFrom": "2026-11-23",
+  "validUntil": "2026-12-31",
   "status": "mathematical_projection",
-  "statusLabel": "Proyección matemática; no es un horario oficial confirmado",
+  "statusLabel": "Proyección matemática basada en el último horario confirmado",
   "rotation": {
     "electricityHours": 3,
     "blackoutHours": 12,
     "cycleHours": 15,
     "anchor": {
-      "date": "2026-10-26",
-      "startTime": "03:00"
+      "date": "2026-11-23",
+      "startTime": "06:00"
     }
   },
   "dailySchedules": [
-    {
-      "date": "2026-10-26",
-      "intervals": [
-        {
-          "start": "03:00",
-          "end": "06:00"
-        },
-        {
-          "start": "18:00",
-          "end": "21:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-27",
-      "intervals": [
-        {
-          "start": "09:00",
-          "end": "12:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "intervals": [
-        {
-          "start": "00:00",
-          "end": "03:00"
-        },
-        {
-          "start": "15:00",
-          "end": "18:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "intervals": [
-        {
-          "start": "06:00",
-          "end": "09:00"
-        },
-        {
-          "start": "21:00",
-          "end": "00:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "intervals": [
-        {
-          "start": "12:00",
-          "end": "15:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-31",
-      "intervals": [
-        {
-          "start": "03:00",
-          "end": "06:00"
-        },
-        {
-          "start": "18:00",
-          "end": "21:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-01",
-      "intervals": [
-        {
-          "start": "09:00",
-          "end": "12:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-02",
-      "intervals": [
-        {
-          "start": "00:00",
-          "end": "03:00"
-        },
-        {
-          "start": "15:00",
-          "end": "18:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-03",
-      "intervals": [
-        {
-          "start": "06:00",
-          "end": "09:00"
-        },
-        {
-          "start": "21:00",
-          "end": "00:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-04",
-      "intervals": [
-        {
-          "start": "12:00",
-          "end": "15:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "intervals": [
-        {
-          "start": "03:00",
-          "end": "06:00"
-        },
-        {
-          "start": "18:00",
-          "end": "21:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "intervals": [
-        {
-          "start": "09:00",
-          "end": "12:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "intervals": [
-        {
-          "start": "00:00",
-          "end": "03:00"
-        },
-        {
-          "start": "15:00",
-          "end": "18:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "intervals": [
-        {
-          "start": "06:00",
-          "end": "09:00"
-        },
-        {
-          "start": "21:00",
-          "end": "00:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-09",
-      "intervals": [
-        {
-          "start": "12:00",
-          "end": "15:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-10",
-      "intervals": [
-        {
-          "start": "03:00",
-          "end": "06:00"
-        },
-        {
-          "start": "18:00",
-          "end": "21:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-11",
-      "intervals": [
-        {
-          "start": "09:00",
-          "end": "12:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "intervals": [
-        {
-          "start": "00:00",
-          "end": "03:00"
-        },
-        {
-          "start": "15:00",
-          "end": "18:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "intervals": [
-        {
-          "start": "06:00",
-          "end": "09:00"
-        },
-        {
-          "start": "21:00",
-          "end": "00:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "intervals": [
-        {
-          "start": "12:00",
-          "end": "15:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "intervals": [
-        {
-          "start": "03:00",
-          "end": "06:00"
-        },
-        {
-          "start": "18:00",
-          "end": "21:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-16",
-      "intervals": [
-        {
-          "start": "09:00",
-          "end": "12:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-17",
-      "intervals": [
-        {
-          "start": "00:00",
-          "end": "03:00"
-        },
-        {
-          "start": "15:00",
-          "end": "18:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-18",
-      "intervals": [
-        {
-          "start": "06:00",
-          "end": "09:00"
-        },
-        {
-          "start": "21:00",
-          "end": "00:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "intervals": [
-        {
-          "start": "12:00",
-          "end": "15:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-20",
-      "intervals": [
-        {
-          "start": "03:00",
-          "end": "06:00"
-        },
-        {
-          "start": "18:00",
-          "end": "21:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-21",
-      "intervals": [
-        {
-          "start": "09:00",
-          "end": "12:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "intervals": [
-        {
-          "start": "00:00",
-          "end": "03:00"
-        },
-        {
-          "start": "15:00",
-          "end": "18:00"
-        }
-      ]
-    },
     {
       "date": "2026-11-23",
       "intervals": [
@@ -434,11 +114,363 @@
           "end": "21:00"
         }
       ]
+    },
+    {
+      "date": "2026-12-01",
+      "intervals": [
+        {
+          "start": "09:00",
+          "end": "12:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-02",
+      "intervals": [
+        {
+          "start": "00:00",
+          "end": "03:00"
+        },
+        {
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "intervals": [
+        {
+          "start": "06:00",
+          "end": "09:00"
+        },
+        {
+          "start": "21:00",
+          "end": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "intervals": [
+        {
+          "start": "12:00",
+          "end": "15:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "intervals": [
+        {
+          "start": "03:00",
+          "end": "06:00"
+        },
+        {
+          "start": "18:00",
+          "end": "21:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-06",
+      "intervals": [
+        {
+          "start": "09:00",
+          "end": "12:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-07",
+      "intervals": [
+        {
+          "start": "00:00",
+          "end": "03:00"
+        },
+        {
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "intervals": [
+        {
+          "start": "06:00",
+          "end": "09:00"
+        },
+        {
+          "start": "21:00",
+          "end": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "intervals": [
+        {
+          "start": "12:00",
+          "end": "15:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-10",
+      "intervals": [
+        {
+          "start": "03:00",
+          "end": "06:00"
+        },
+        {
+          "start": "18:00",
+          "end": "21:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "intervals": [
+        {
+          "start": "09:00",
+          "end": "12:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "intervals": [
+        {
+          "start": "00:00",
+          "end": "03:00"
+        },
+        {
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-13",
+      "intervals": [
+        {
+          "start": "06:00",
+          "end": "09:00"
+        },
+        {
+          "start": "21:00",
+          "end": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-14",
+      "intervals": [
+        {
+          "start": "12:00",
+          "end": "15:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "intervals": [
+        {
+          "start": "03:00",
+          "end": "06:00"
+        },
+        {
+          "start": "18:00",
+          "end": "21:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-16",
+      "intervals": [
+        {
+          "start": "09:00",
+          "end": "12:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-17",
+      "intervals": [
+        {
+          "start": "00:00",
+          "end": "03:00"
+        },
+        {
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "intervals": [
+        {
+          "start": "06:00",
+          "end": "09:00"
+        },
+        {
+          "start": "21:00",
+          "end": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-19",
+      "intervals": [
+        {
+          "start": "12:00",
+          "end": "15:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-20",
+      "intervals": [
+        {
+          "start": "03:00",
+          "end": "06:00"
+        },
+        {
+          "start": "18:00",
+          "end": "21:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-21",
+      "intervals": [
+        {
+          "start": "09:00",
+          "end": "12:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-22",
+      "intervals": [
+        {
+          "start": "00:00",
+          "end": "03:00"
+        },
+        {
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-23",
+      "intervals": [
+        {
+          "start": "06:00",
+          "end": "09:00"
+        },
+        {
+          "start": "21:00",
+          "end": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "intervals": [
+        {
+          "start": "12:00",
+          "end": "15:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-25",
+      "intervals": [
+        {
+          "start": "03:00",
+          "end": "06:00"
+        },
+        {
+          "start": "18:00",
+          "end": "21:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-26",
+      "intervals": [
+        {
+          "start": "09:00",
+          "end": "12:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-27",
+      "intervals": [
+        {
+          "start": "00:00",
+          "end": "03:00"
+        },
+        {
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-28",
+      "intervals": [
+        {
+          "start": "06:00",
+          "end": "09:00"
+        },
+        {
+          "start": "21:00",
+          "end": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-29",
+      "intervals": [
+        {
+          "start": "12:00",
+          "end": "15:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-30",
+      "intervals": [
+        {
+          "start": "03:00",
+          "end": "06:00"
+        },
+        {
+          "start": "18:00",
+          "end": "21:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-31",
+      "intervals": [
+        {
+          "start": "09:00",
+          "end": "12:00"
+        }
+      ]
     }
   ],
   "notes": [
-    "Calculado a partir del patrón de 3 horas con electricidad y 12 horas de apagón.",
-    "Cada turno comienza 15 horas después del inicio del turno anterior.",
-    "Los intervalos son una proyección matemática y pueden diferir del servicio real."
+    "Nuevo punto de referencia confirmado: 23 de noviembre de 2026, de 06:00 a 09:00.",
+    "Se confirmó otro turno el 23 de noviembre de 2026 de 21:00 a 00:00, y el siguiente el 24 de noviembre de 12:00 a 15:00.",
+    "La rotación es continua de 15 horas; no se reinicia a medianoche.",
+    "Todos los turnos posteriores son proyecciones matemáticas y pueden cambiar si la Empresa Eléctrica modifica el horario."
   ]
 }
